@@ -1,5 +1,7 @@
 # Internal Network Scanner GUI (Nmap XML Analyzer)
 
+**Version 1.0.1**
+
 This project provides a user-friendly desktop GUI for **authorized internal security assessments**.
 
 ## What it does
